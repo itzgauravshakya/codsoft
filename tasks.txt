@@ -1,0 +1,4 @@
+#########  DATA OF TO-DO LIST STORED HERE ##########
+
+market
+shop
